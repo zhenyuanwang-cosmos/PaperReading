@@ -8,3 +8,6 @@
 
 #### 3. The two-loop bispectrum of large-scale structure
 ###### Tobias Baldauf, Mathias Garny, Petter Taule, Theo Steele   https://arxiv.org/abs/2110.13930
+
+#### 4. An $n$-th order Lagrangian Forward Model for Large-Scale Structure
+###### Fabian Schmidt   https://arxiv.org/abs/2012.09837
