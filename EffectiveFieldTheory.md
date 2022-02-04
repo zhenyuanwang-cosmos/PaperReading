@@ -1,10 +1,10 @@
 ## EFT
 
 #### 1. Precise Calibration of the One-Loop Bispectrum in the Effective Field Theory of Large Scale Structure
-###### Theodore Steele, Tobias Baldauf https://arxiv.org/abs/2009.01200
+###### Theodore Steele, Tobias Baldauf   https://arxiv.org/abs/2009.01200
 
 #### 2. Precise Calibration of the One-Loop Trispectrum in the Effective Field Theory of Large Scale Structure
-###### Theodore Steele, Tobias Baldauf https://arxiv.org/abs/2101.10289
+###### Theodore Steele, Tobias Baldauf   https://arxiv.org/abs/2101.10289
 
-#### 3. Precise Calibration of the One-Loop Trispectrum in the Effective Field Theory of Large Scale Structure
-###### Theodore Steele, Tobias Baldauf https://arxiv.org/abs/2101.10289
+#### 3. The two-loop bispectrum of large-scale structure
+###### Tobias Baldauf, Mathias Garny, Petter Taule, Theo Steele   https://arxiv.org/abs/2110.13930
