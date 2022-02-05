@@ -6,4 +6,7 @@ Read, think, think and think.
 
 [Large-scale galaxy bias](https://github.com/zhenyuanwang-cosmos/PaperReading/blob/main/LSSbias.md)
 
+[Redshift space distortion](https://github.com/zhenyuanwang-cosmos/PaperReading/blob/main/RSD.md)
+
 [Cosmology](https://github.com/zhenyuanwang-cosmos/PaperReading/blob/main/Cosmology.md)
+
