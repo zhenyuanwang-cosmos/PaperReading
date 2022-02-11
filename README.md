@@ -10,3 +10,4 @@ Read, think, think and think.
 
 [Cosmology](https://github.com/zhenyuanwang-cosmos/PaperReading/blob/main/Cosmology.md)
 
+[Survey Analaysis](https://github.com/zhenyuanwang-cosmos/PaperReading/blob/main/SurveyAnalysis.md)
