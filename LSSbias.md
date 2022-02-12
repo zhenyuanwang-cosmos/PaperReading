@@ -3,7 +3,8 @@
 #### [The Galaxy Power Spectrum and Bispectrum in Redshift Space](https://arxiv.org/abs/1806.04015)
 ##### Vincent Desjacques, Donghui Jeong, Fabian Schmidt
 
-#### ShapeFit
+
+
 
 #### [Bias Loop Corrections to the Galaxy Bispectrum](https://arxiv.org/abs/1812.03208)
 ##### Alexander Eggemeier, Roman Scoccimarro, Robert E. Smith 
@@ -12,4 +13,6 @@
 ##### Alexander Eggemeier, Román Scoccimarro, Martin Crocce, Andrea Pezzotta, Ariel G. Sánchez 
 
 #### [Renormalization of linear halo bias in N-body simulation](https://arxiv.org/abs/1907.03774)
-##### Alexander Eggemeier, Roman Scoccimarro, Robert E. Smith 
+##### TBA
+
+#### ShapeFit
