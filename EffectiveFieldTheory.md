@@ -11,3 +11,11 @@
 
 #### 4. An $n$-th order Lagrangian Forward Model for Large-Scale Structure
 ###### Fabian Schmidt   https://arxiv.org/abs/2012.09837
+
+#### The Effective Field Theorist's Approach to Gravitational Dynamics
+###### Rafael A. Porto   https://arxiv.org/abs/1601.04914
+
+
+
+
+The Effective Field Theorist's Approach to Gravitational Dynamics
