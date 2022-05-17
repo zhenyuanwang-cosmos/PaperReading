@@ -17,7 +17,8 @@
 
 #### [An Effective Bias Expansion for 21 cm Cosmology in Redshift Space](https://arxiv.org/abs/2205.06270)
 ##### Wenzer Qin, Katelin Schutz, Aaron Smith, Enrico Garaldi, Rahul Kannan, Tracy R. Slatyer, Mark Vogelsberger
-Use 2nd order perturbative bias expansion to forward model the 21cm field at the field level. 
-RSD is simply a coordinate transformation. Therefore the 21cm brightness field can be decomposed into 1) a group of terms of biased parameter + operators and 2) a group of terms with Taylor expansion of RSD terms. However, this work doesn't include velocity bias and selection effect. 
-The value of bias parameter is based on hydrodynamical simulation. 
-Nice work with clear explanation of the physical meaning of bias parameters. However, the bias renormalization may be incorrect.
+1. Use 2nd order perturbative bias expansion to forward model the 21cm field at the field level. The value of bias parameter is based on hydrodynamical simulation. 
+
+2. RSD is simply a coordinate transformation. Therefore the 21cm brightness field can be decomposed into 1) a group of terms of biased parameter + operators and 2) a group of terms with Taylor expansion of RSD terms. However, this work doesn't include velocity bias and selection effect. 
+
+3. Nice work with clear explanation of the physical meaning of bias parameters. However, the bias renormalization may be incorrect.
