@@ -15,4 +15,6 @@
 #### [Renormalization of linear halo bias in N-body simulation](https://arxiv.org/abs/1907.03774)
 ##### TBA
 
-#### ShapeFit
+#### [An Effective Bias Expansion for 21 cm Cosmology in Redshift Space](https://arxiv.org/abs/2205.06270)
+##### Wenzer Qin, Katelin Schutz, Aaron Smith, Enrico Garaldi, Rahul Kannan, Tracy R. Slatyer, Mark Vogelsberger
+Use 2nd order perturbative bias expansion to forward model the 21cm field at the field level. The value of bias parameter is based on hydrodynamical simulation. Nice work with clear explanation of the physical meaning of bias parameters. However, the bias renormalization may be incorrect.
